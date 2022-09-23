@@ -7,4 +7,5 @@ public class LinkedBlockingQueue {//LinkedList
     //Remove : n
     //Size : 1
 
+
 }

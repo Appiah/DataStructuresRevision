@@ -11,6 +11,7 @@ import java.util.stream.Stream;
 
 public class AbstractSequentialList extends java.util.AbstractSequentialList {
 
+
     /**
      * Returns a list iterator over the elements in this list (in proper
      * sequence).
