@@ -1,6 +1,6 @@
 package Map;
 
-public class HashMap {
+public class Map_WeakHashMap {
     //Get : 1
     //ContainsKey : 1
     //Next : h/n

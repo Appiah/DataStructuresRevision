@@ -1,6 +1,6 @@
 package Queue;
 
-public class PriorityBlockingQueue {//Priority Heap
+public class Queue_PriorityBlockingQueue {//Priority Heap
     //Offer : Ln
     //Peak : 1
     //Poll : Ln

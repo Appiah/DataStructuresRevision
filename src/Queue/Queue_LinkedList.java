@@ -1,11 +1,10 @@
 package Queue;
 
-public class LinkedBlockingQueue {//LinkedList
+public class Queue_LinkedList {
     //Offer : 1
     //Peak : 1
     //Poll : 1
-    //Remove : n
+    //Remove : 1
     //Size : 1
-
 
 }

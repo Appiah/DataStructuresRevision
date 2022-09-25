@@ -1,10 +1,9 @@
 package Queue;
 
-public class DelayQueue {//Priority Heap
+public class Queue_PriorityQueue {//Priority Heap
     //Offer : Ln
     //Peak : 1
     //Poll : Ln
     //Remove : n
     //Size : 1
-
 }

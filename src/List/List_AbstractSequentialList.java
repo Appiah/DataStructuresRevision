@@ -9,7 +9,7 @@ import java.util.function.Predicate;
 import java.util.function.UnaryOperator;
 import java.util.stream.Stream;
 
-public class AbstractSequentialList extends java.util.AbstractSequentialList {
+public class List_AbstractSequentialList extends java.util.AbstractSequentialList {
 
 
     /**

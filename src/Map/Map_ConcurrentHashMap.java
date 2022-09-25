@@ -1,8 +1,9 @@
 package Map;
 
-public class WeakHashMap {
+public class Map_ConcurrentHashMap {
     //Get : 1
     //ContainsKey : 1
     //Next : h/n
+
 
 }

@@ -1,8 +1,8 @@
 package Map;
 
-public class LinkedHashMap {
+public class Map_HashMap {
     //Get : 1
     //ContainsKey : 1
-    //Next : 1
+    //Next : h/n
 
 }

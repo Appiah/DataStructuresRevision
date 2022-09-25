@@ -1,6 +1,6 @@
 package Map;
 
-public class TreeMap {
+public class Map_TreeMap {
     //Get : Ln
     //ContainsKey : Ln
     //Next : Ln

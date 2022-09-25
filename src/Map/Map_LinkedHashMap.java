@@ -1,9 +1,8 @@
 package Map;
 
-public class ConcurrentHashMap {
+public class Map_LinkedHashMap {
     //Get : 1
     //ContainsKey : 1
-    //Next : h/n
-
+    //Next : 1
 
 }
