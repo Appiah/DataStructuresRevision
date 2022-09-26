@@ -1,5 +1,7 @@
 package List;
 
+import Utilities.Util;
+
 import java.util.*;
 
 public class List_ArrayList {
@@ -8,10 +10,10 @@ public class List_ArrayList {
 
     public static void main(String [] args){
 
-        System.out.print("Data Structures Experimentation with : ");
-        System.out.print(DATA_STRUCTURE_NAME);
+        Util.show("Data Structures Experimentation with : ");
+        Util.show(DATA_STRUCTURE_NAME);
 
-        System.out.println("");
+        Util.showLn("");
 
         ArrayList<String> arrList = new ArrayList<>();
 
@@ -28,12 +30,13 @@ public class List_ArrayList {
         * Exception in thread "main" java.lang.IndexOutOfBoundsException: Index: 7, Size: 5
         * */
 
-        System.out.println("arrList elements : "+arrList.toString());
+        Util.showLn("arrList elements : "+arrList);
 
         //get function : O(1)
-        String item_at_position_4_str = arrList.get(4);
+        int pos = 4;
+        String item_at_position_4_str = arrList.get(pos);
 
-
+        Util.showLn("value at position "+pos+" is : "+item_at_position_4_str);
 
     }
 

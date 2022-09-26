@@ -1,6 +1,6 @@
 package Utilities;
 
-public class CommonFunctions {
+public class Util {
 
     public static void show(String content_str){
         System.out.print(content_str);
