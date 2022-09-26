@@ -30,6 +30,10 @@ public class List_ArrayList {
 
         System.out.println("arrList elements : "+arrList.toString());
 
+        //get function : O(1)
+        String item_at_position_4_str = arrList.get(4);
+
+
 
     }
 
