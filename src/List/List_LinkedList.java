@@ -30,5 +30,8 @@ public class List_LinkedList {
 
         Util.showLn(ll_str.getLast());
 
+        //Methods / Functions :
+
+
     }
 }
